@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Directly accessing Street View data</title>
+    <title>Place Search</title>
     <link rel="stylesheet" href="css/placesearch.css" />
     <!-- Latest compiled and minified CSS -->
     <script src="libs/jquery-3.4.1.min.js"></script>
